@@ -100,3 +100,7 @@ InitTestScene*.unity*
 
 # <Addition> Downloaded Assets 
 /[Aa]ssets/Downloads/
+
+# <Addition> TextMeshPro auto-generated files
+/[Aa]ssets/TextMesh Pro/
+/[Aa]ssets/TextMesh Pro.meta
